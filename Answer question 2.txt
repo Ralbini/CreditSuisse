@@ -1,0 +1,3 @@
+Answer to question 2:
+Implement IsPoliticalExposed property in Trade class, add fourth element input handling (space-separated) IsPoliticalExposed
+Load a PEP category, implement a condition for validating the IsPoliticalExposed property, and set an output to "PEP".
